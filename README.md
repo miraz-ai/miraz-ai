@@ -91,7 +91,7 @@ A mobile banking web app project built with JavaScript to practice interactive f
 A modern responsive landing page focused on clean layout, spacing, sections, and frontend design.
 
 **Tech:** HTML, CSS  
-**Repository:** [assignment-2](https://github.com/miraz-ai/assignment-2)
+**Repository:** [techwave](https://miraz-ai.github.io/techwave/)
 
 ---
 
