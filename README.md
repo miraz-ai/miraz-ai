@@ -27,24 +27,37 @@
 </p>
 
 ---
-
 ## 📌 Featured Projects
 
-### 🔹 Portfolio Website  
-A personal portfolio website to showcase my projects, skills, and learning journey.  
-**Tech:** HTML, CSS, JavaScript
+### 🔹 SkillBridge / FreelanceHub  
+A freelancing platform project where users can explore jobs/services and practice real-world web application features.  
+**Tech:** HTML, CSS, Tailwind CSS, JavaScript  
+**Repository:** [FreelanceHub](https://github.com/NobodyWasStark/FreelanceHub)
 
-### 🔹 Blog Post Website  
-A simple and clean blog layout project built to practice webpage structure and styling.  
-**Tech:** HTML, CSS
+### 🔹 Payo Mobile Banking  
+A mobile banking web app project built to practice JavaScript functionality such as balance updates, transactions, and user interactions.  
+**Tech:** HTML, CSS, JavaScript  
+**Repository:** [payo-code](https://github.com/miraz-ai/payo-code)
 
-### 🔹 Login Page  
-A responsive login page design with a clean user interface.  
-**Tech:** HTML, CSS
+### 🔹 TechWave Landing Page  
+A modern responsive landing page built to practice clean layout, spacing, sections, and frontend design.  
+**Tech:** HTML, CSS  
+**Repository:** [assignment-2](https://github.com/miraz-ai/assignment-2)
+
+### 🔹 Portfolio Responsive  
+A responsive portfolio website to showcase my projects, skills, and learning journey.  
+**Tech:** HTML, CSS  
+**Repository:** [portfolio-responsive](https://github.com/miraz-ai/portfolio-responsive)
+
+### 🔹 DOM Recap  
+A JavaScript practice project focused on DOM manipulation and interactive webpage behavior.  
+**Tech:** HTML, CSS, JavaScript  
+**Repository:** [DOM-Recap-](https://github.com/miraz-ai/DOM-Recap-)
 
 ### 🔹 G3 Architects Website  
 A responsive landing page project focused on layout, spacing, and modern UI design.  
-**Tech:** HTML, CSS
+**Tech:** HTML, CSS  
+**Repository:** [g3-architects-website](https://github.com/miraz-ai/g3-architects-website)
 
 ---
 
