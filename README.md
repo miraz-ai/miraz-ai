@@ -12,10 +12,10 @@
 
 - 🎓 Computer Science & Engineering student  
 - 💻 Learning **frontend and full-stack web development**
-- 🎨 Comfortable with **HTML, CSS, and Tailwind CSS**
+- 🎨 Comfortable with **HTML, CSS, Tailwind CSS, and JavaScript**
 - 🌱 Currently improving **JavaScript, React, and responsive UI design**
 - 🧠 Interested in **Data Structures, Algorithms, Backend Development, and System Design**
-- 🚀 Building projects to improve my real-world development skills
+- 🚀 Currently working on **SkillBridge / FreelanceHub** and JavaScript-based projects like **Payo Mobile Banking**
 - 📫 Reach me at: **afzalhossain.miraz@gmail.com**
 
 ---
