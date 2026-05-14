@@ -102,10 +102,30 @@ A responsive portfolio website to showcase projects, skills, and learning journe
 **Repository:** [portfolio-responsive](https://github.com/miraz-ai/portfolio-responsive)
 
 ---
-
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miraz-ai&theme=tokyonight" alt="GitHub Profile Details" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miraz-ai&theme=tokyonight" alt="Top Languages by Repo" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miraz-ai&theme=tokyonight" alt="Top Languages by Commit" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miraz-ai&theme=tokyonight" alt="GitHub Stats" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miraz-ai&theme=tokyonight&utcOffset=6" alt="Productive Time" />
+
+</div>
+---
+
+## 🔥 Contribution Streak
 
 <div align="center">
 
