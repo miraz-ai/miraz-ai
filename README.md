@@ -20,7 +20,7 @@
 
 - 🎓 CSE undergraduate student at **United International University**
 - 💻 Focused on building **clean, responsive, and interactive web applications**
-- ⚡ Skilled in **HTML, CSS, Tailwind CSS, and JavaScript**
+- ⚡ Skilled in **HTML, CSS, Tailwind CSS, PHP and JavaScript**
 - 🧠 Practicing **JavaScript logic, DOM manipulation, and real project features**
 - 🌱 Currently learning **React**
 - 🚀 Aspiring to become a **full-stack developer**
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,react,git,github,vscode" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,react,git,github,vscode,php" alt="Tech Stack" />
 
 </div>
 
