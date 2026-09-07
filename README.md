@@ -79,11 +79,12 @@ A freelancing platform project focused on job/service exploration, user-friendly
 
 ---
 
-### • ChitChat
+### 🔹 ChitChat
 A modern full-stack real-time chat application featuring authentication, interactive messaging interfaces, and responsive UI.
 
-**Tech:** React, TypeScript, Vite, Tailwind CSS, Node.js
+**Tech:** React, TypeScript, Vite, Tailwind CSS, Node.js  
 **Repository:** [chitchat](https://github.com/miraz-ai/chitchat)
+
 ---
 
 
