@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=180&section=header&text=Afzal%20Hossain%20Miraz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:06b6d4,100:10b981&height=200&section=header&text=Afzal%20Hossain%20Miraz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <h3>CSE Undergraduate Student at United International University</h3>
 
-<h4>JavaScript Developer • Frontend Builder • Aspiring Full-Stack Developer</h4>
+<h4>Full-Stack Architect • PHP & UI/UX Specialist • React Explorer</h4>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=A+story+still+being+written;Building+interactive+web+projects+with+JavaScript;Currently+learning+React;Aspiring+Full-Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&lines=Building+robust+enterprise+web+architectures;Mastering+PHP%2C+MySQL+%26+Modern+UI%2FUX;Exploring+React+and+Full-Stack+Ecosystems;A+story+still+being+written..." alt="Typing SVG" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=miraz-ai&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=miraz-ai&label=Profile%20Views&color=06b6d4&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -19,11 +19,10 @@
 ## 👨‍💻 About Me
 
 - 🎓 CSE undergraduate student at **United International University**
-- 💻 Focused on building **clean, responsive, and interactive web applications**
-- ⚡ Skilled in **HTML, CSS, Tailwind CSS, PHP and JavaScript**
-- 🧠 Practicing **JavaScript logic, DOM manipulation, and real project features**
-- 🌱 Currently learning **React**
-- 🚀 Aspiring to become a **full-stack developer**
+- 💻 Specialized in **enterprise-grade UI/UX systems, modular PHP backends, and responsive SPAs**
+- ⚡ Tech toolkit: **PHP, MySQL, JavaScript, Tailwind CSS, React, and Linux (LAMP)**
+- 🛡️ Passionate about **Role-Based Access Control (RBAC), database security, and clean architecture**
+- 🚀 Actively transforming complex hospital & administrative workflows into sleek digital experiences
 - 📫 Reach me at: **afzalhossain.miraz@gmail.com**
 
 ---
@@ -32,7 +31,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,react,git,github,vscode,php" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,react,php,mysql,linux,git,github,vscode" alt="Tech Stack" />
 
 </div>
 
@@ -52,7 +51,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Trust+Allah+and+keep+moving;Keep+learning+with+patience;Build+with+purpose" alt="Motivation Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=10B981&center=true&vCenter=true&width=700&lines=Trust+Allah+and+keep+moving;Keep+learning+with+patience;Build+with+purpose" alt="Motivation Typing SVG" />
 
 </div>
 
@@ -62,20 +61,20 @@
 
 | Focus Area | What I Practice |
 |---|---|
-| 🎨 Frontend UI | Responsive layouts, clean sections, modern spacing |
-| ⚡ JavaScript | DOM manipulation, events, form handling, app logic |
-| 🧩 Projects | Landing pages, portfolio pages, banking UI, platform-style pages |
-| 🌱 Currently Learning | React components and frontend project structure |
+| 🎨 Enterprise UI/UX | 8pt grid layouts, custom design tokens, fluid CSS architectures |
+| 🛡️ Backend & RBAC | Session security, password hashing, relational database optimization |
+| ⚡ Full-Stack Systems | Multi-role dashboards, approval pipelines, clinical telemetry consoles |
+| 🧩 Modern Frontend | JavaScript DOM control, React component hierarchies, API integration |
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 SkillBridge / FreelanceHub  
-A freelancing platform project focused on job/service exploration, user-friendly pages, and real-world web application structure.
+### 🔹 MedPulse — Enterprise Hospital Operations Platform
+A comprehensive clinical management suite featuring strict role-based access control (Admin, Doctor, Staff, Patient), pending credential verification workflows, dynamic telemetry streams, and responsive design systems.
 
-**Tech:** HTML, CSS, Tailwind CSS, JavaScript  
-**Repository:** [FreelanceHub](https://github.com/NobodyWasStark/FreelanceHub)
+**Tech:** PHP, MySQL, Apache, Custom Design Tokens, JavaScript  
+**Repository:** [medpulse-hospital-system](https://github.com/miraz-ai/medpulse-hospital-system)
 
 ---
 
@@ -87,6 +86,13 @@ A modern full-stack real-time chat application featuring authentication, interac
 
 ---
 
+### 🔹 SkillBridge / FreelanceHub  
+A freelancing platform project focused on job/service exploration, user-friendly pages, and real-world web application structure.
+
+**Tech:** HTML, CSS, Tailwind CSS, JavaScript  
+**Repository:** [FreelanceHub](https://github.com/NobodyWasStark/FreelanceHub)
+
+---
 
 ### 🔹 Payo Mobile Banking  
 A mobile banking web app project built with JavaScript to practice interactive features, balance updates, transaction flow, and DOM manipulation.
@@ -102,15 +108,6 @@ A modern responsive landing page focused on clean layout, spacing, sections, and
 **Tech:** HTML, CSS  
 **Repository:** [techwave](https://miraz-ai.github.io/techwave/)
 
----
-
-### 🔹 Portfolio  
-A responsive portfolio website to showcase projects, skills, and learning journey.
-
-**Tech:** HTML, CSS  
-**Repository:** [portfolio-responsive](https://github.com/miraz-ai/portfolio-responsive)
-
----
 ---
 
 ## 📈 GitHub Overview
@@ -132,6 +129,7 @@ A responsive portfolio website to showcase projects, skills, and learning journe
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miraz-ai&theme=tokyonight&utcOffset=6" alt="Productive Time" />
 
 </div>
+
 ---
 
 ## 🔥 Contribution Streak
@@ -170,4 +168,4 @@ A responsive portfolio website to showcase projects, skills, and learning journe
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:06b6d4,100:4f46e5&height=120&section=footer" />
