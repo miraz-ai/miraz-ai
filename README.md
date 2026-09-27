@@ -70,10 +70,10 @@
 
 ## 📌 Featured Projects
 
-### 🔹 MedPulse — Enterprise Hospital Operations Platform
-A comprehensive clinical management suite featuring strict role-based access control (Admin, Doctor, Staff, Patient), pending credential verification workflows, dynamic telemetry streams, and responsive design systems.
+### • MedPulse — Smart Hospital & Clinical Management Ecosystem
+An enterprise clinical platform featuring a concurrency-safe OPD queue engine with 4-day rolling schedule forecasting, turn-gated 24/7 virtual care suites, inpatient bed census with automated discharge state transitions, and BMDC/DGHS healthcare compliance across multi-tier RBAC portals (Super Admin, Branch Admin, Doctor, Staff, Patient).
 
-**Tech:** PHP, MySQL, Apache, Custom Design Tokens, JavaScript  
+**Tech:** PHP, MySQL (PDO Transactions), JavaScript (Live Polling & Fetch API), Tailwind CSS
 **Repository:** [medpulse-hospital-system](https://github.com/miraz-ai/medpulse-hospital-system)
 
 ---
