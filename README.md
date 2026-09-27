@@ -74,6 +74,7 @@
 An enterprise clinical platform featuring a concurrency-safe OPD queue engine with 4-day rolling schedule forecasting, turn-gated 24/7 virtual care suites, inpatient bed census with automated discharge state transitions, and BMDC/DGHS healthcare compliance across multi-tier RBAC portals (Super Admin, Branch Admin, Doctor, Staff, Patient).
 
 **Tech:** PHP, MySQL (PDO Transactions), JavaScript (Live Polling & Fetch API), Tailwind CSS
+
 **Repository:** [medpulse-hospital-system](https://github.com/miraz-ai/medpulse-hospital-system)
 
 ---
