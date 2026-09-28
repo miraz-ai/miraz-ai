@@ -18,13 +18,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 CSE undergraduate student at **United International University**
-- 💻 Specialized in **enterprise-grade UI/UX systems, modular PHP backends, and responsive SPAs**
-- ⚡ Tech toolkit: **PHP, MySQL, JavaScript, Tailwind CSS, React, and Linux (LAMP)**
-- 🛡️ Passionate about **Role-Based Access Control (RBAC), database security, and clean architecture**
-- 🚀 Actively transforming complex hospital & administrative workflows into sleek digital experiences
-- 📫 Reach me at: **afzalhossain.miraz@gmail.com**
-
+- 🎓 Computer Science & Engineering undergraduate at **United International University**
+- 💻 Building **concurrency-safe web architectures, real-time telemetry systems, and enterprise clinical platforms**
+- ⚡ Core Tech: **PHP (OOP & PDO Transactions), MySQL, Modern JavaScript (ES6+), Tailwind CSS, React, and LAMP Stack**
+- 🛡️ Core Specialization: **Transactional Concurrency, Multi-tier RBAC Security, Database Normalization & Regulatory Compliance (BMDC/DGHS standards)**
+- 🚀 Experienced in transforming high-stakes clinical and logistics operations into zero-lag, intuitive digital dashboards
+- 📫 Connect with me: **afzalhossain.miraz@gmail.com**
 ---
 
 ## 🛠️ Tech Stack
@@ -57,14 +56,14 @@
 
 ---
 
-## 🚀 What I Build
+## 🚀 What I Build & Architect
 
-| Focus Area | What I Practice |
+| Domain | Technical Focus & Engineering Practice |
 |---|---|
-| 🎨 Enterprise UI/UX | 8pt grid layouts, custom design tokens, fluid CSS architectures |
-| 🛡️ Backend & RBAC | Session security, password hashing, relational database optimization |
-| ⚡ Full-Stack Systems | Multi-role dashboards, approval pipelines, clinical telemetry consoles |
-| 🧩 Modern Frontend | JavaScript DOM control, React component hierarchies, API integration |
+| 🛡️ Backend & Concurrency | Transactional integrity (PDO), atomic queuing, race condition prevention, RBAC session security |
+| ⚡ Real-Time Systems | Asynchronous telemetry polling, zero-reload state synchronization, reactive workflow pipelines |
+| 🎨 Clinical & Enterprise UI | 8pt fluid design systems, accessible high-density data tables, Tailwind CSS architectural tokens |
+| 🗄️ Relational Data Engineering | Strict foreign key constraints, indexing optimization, state machine-driven census & audit schemas |
 
 ---
 
@@ -101,13 +100,6 @@ A mobile banking web app project built with JavaScript to practice interactive f
 **Tech:** HTML, CSS, JavaScript  
 **Repository:** [payo-code](https://github.com/miraz-ai/payo-code)
 
----
-
-### 🔹 TechWave
-A modern responsive landing page focused on clean layout, spacing, sections, and frontend design.
-
-**Tech:** HTML, CSS  
-**Repository:** [techwave](https://miraz-ai.github.io/techwave/)
 
 ---
 
