@@ -94,11 +94,12 @@ A freelancing platform project focused on job/service exploration, user-friendly
 
 ---
 
-### 🔹 Payo Mobile Banking  
-A mobile banking web app project built with JavaScript to practice interactive features, balance updates, transaction flow, and DOM manipulation.
+### • Personal Developer Portfolio
+Personal engineering portfolio showcasing enterprise-grade system architectures, core competencies, and production-ready full-stack web applications.
 
-**Tech:** HTML, CSS, JavaScript  
-**Repository:** [payo-code](https://github.com/miraz-ai/payo-code)
+**Tech:** React, Tailwind CSS, Modern JavaScript, Vercel CI/CD  
+**Live Demo:** [miraz-portfolio-brown.vercel.app](https://miraz-portfolio-brown.vercel.app/)  
+**Repository:** [miraz-portfolio](https://github.com/miraz-ai/miraz-portfolio)
 
 
 ---
