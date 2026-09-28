@@ -23,6 +23,7 @@
 - ⚡ Core Tech: **PHP (OOP & PDO Transactions), MySQL, Modern JavaScript (ES6+), Tailwind CSS, React, and LAMP Stack**
 - 🛡️ Core Specialization: **Transactional Concurrency, Multi-tier RBAC Security, Database Normalization & Regulatory Compliance (BMDC/DGHS standards)**
 - 🚀 Experienced in transforming high-stakes clinical and logistics operations into zero-lag, intuitive digital dashboards
+- 🌐 Live Showcase: **[miraz-portfolio-brown.vercel.app](https://miraz-portfolio-brown.vercel.app/)**
 - 📫 Connect with me: **afzalhossain.miraz@gmail.com**
 ---
 
